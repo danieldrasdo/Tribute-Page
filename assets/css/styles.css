@@ -200,6 +200,12 @@ h4 span {
   z-index: 1;
 }
 
+.timeline .container .albums {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .timeline .container .albums .album {
   background-color: white;
   border: 2px solid #a2c9c6;
@@ -290,6 +296,7 @@ h4 span {
 
 .links {
   font-size: 120%;
+  font-weight: 900;
   margin: 0 0 50px;
 }
 
@@ -303,7 +310,7 @@ h4 span {
 }
 
 .links a:hover {
-  color: #cb7576;
+  color: #c46264;
 }
 
 .links a:first-child {
