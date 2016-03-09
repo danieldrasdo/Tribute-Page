@@ -367,6 +367,9 @@ footer a:hover .fa {
     background: white;
     border: 10px solid #a2c9c6;
     padding: 5px;
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
   }
   .timeline .container .albums .album {
     margin: 30px 0 !important;
