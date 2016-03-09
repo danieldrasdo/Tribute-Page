@@ -4,4 +4,4 @@ This is a page I created in tribute of Jim Campilongo, a great guitarist. It is 
 
 ##Preview
 
-[tribute-page/index.html](https://cdn.rawgit.com/danieldrasdo/tributePage/master/index.html)
+[tributePage/index.html](https://cdn.rawgit.com/danieldrasdo/tributePage/master/index.html)
